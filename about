@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vidyasagar Library - About Us</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1 class="header-title">Vidyasagar Library</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="fees.html">Fees and details</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <div class="content">
+    <div class="designer-box">
+      <h2 class="box-title">About Us</h2>
+      <p>
+        We are making this library for aspirants of any exam and students are welcomed here main motive is to provide a good place to study in focus and concentration. -Arbind Kumar
+      </p>
+      <p>
+        Contact Us: 9331970549<br>
+        Email: karbind975@gmail.com
+      </p>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2023 Vidyasagar Library. All rights reserved.</p>
+  </footer>
+</body>
+</html>

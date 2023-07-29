@@ -1,0 +1,117 @@
+body {
+  margin: 20px;
+}
+body {
+  background-color: #E6E6FA; /* Lavender background */
+  color: #333;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #8B7355; /* Brown shade for the header */
+  padding: 20px;
+  text-align: center;
+}
+
+.header-title {
+  font-family: "Harrington", cursive;
+  font-size: 36px;
+  color: #FFF;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+body {
+  background-color: #F0EAD6; /* Designer background color */
+  color: #333;
+  font-family: Georgia , Serif :
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #8B7355; /* Brown shade for the header */
+  padding: 20px;
+  text-align: center;
+}
+
+.header-title {
+  font-size: 36px;
+  color: #FFF;
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+.content {
+  background-color: #FFF; /* White background for the content */
+  padding: 20px;
+  text-align: center;
+}
+
+.fee-structure-title {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.fee-table {
+  margin-bottom: 20px;
+}
+
+.fee-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.fee-table th,
+.fee-table td {
+  padding: 10px;
+  border: 1px solid #333;
+}
+
+.fee-table th {
+  background-color: #EEE;
+}
+
+.discount-note {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.admission-fee {
+  font-weight: bold;
+}

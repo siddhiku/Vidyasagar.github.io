@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fee Structure - Vidyasagar Library</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Add Google Fonts stylesheet -->
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1 class="header-title">Vidyasagar Library</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="fees.html">Fees and details</a></li>
+        </ul>
+      </nav>
+    </header>
+  
+    <div class="content">
+      <h2 class="fee-structure-title">Fee Structure</h2>
+      <h3 class="shift-details-title">Shift Details for Studying:</h3>
+      <p class="shift-details">
+        Shift 1 - Morning: 7 am to 1 pm<br>
+        Shift 2 - Afternoon: 1 pm to 7 pm
+      </p>
+      <div class="fee-table">
+        <table>
+          <tr>
+            <th>Shift</th>
+            <th>Duration</th>
+            <th>Fee</th>
+          </tr>
+          <tr>
+            <td rowspan="4">Shift 1</td>
+            <td>Monthly</td>
+            <td>₹1200</td>
+          </tr>
+          <tr>
+            <td>Quarterly</td>
+            <td>₹3500</td>
+          </tr>
+          <tr>
+            <td>Half Yearly</td>
+            <td>₹7000</td>
+          </tr>
+          <tr>
+            <td>Yearly</td>
+            <td>₹13800</td>
+          </tr>
+          <tr>
+            <td rowspan="4">Shift 2</td>
+            <td>Monthly</td>
+            <td>₹1200</td>
+          </tr>
+          <tr>
+            <td>Quarterly</td>
+            <td>₹3500</td>
+          </tr>
+          <tr>
+            <td>Half Yearly</td>
+            <td>₹7000</td>
+          </tr>
+          <tr>
+            <td>Yearly</td>
+            <td>₹13800</td>
+          </tr>
+        </table>
+      </div>
+      <p class="discount-note">*Discount already applied to all fees</p>
+      <p class="admission-fee">Admission Fee: ₹250</p>
+    </div>
+  </div>
+</body>
+</html>

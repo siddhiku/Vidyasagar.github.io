@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vidyasagar Library - Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1 class="header-title">Vidyasagar Library</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="fees.html">Fees and details</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <div class="content">
+    <h2>Welcome to Vidyasagar Library</h2>
+    <p class="quote">"Education is the passport to the future, for tomorrow belongs to those who prepare for it today." - Malcolm X</p>
+    
+    <h3>Benefits of Vidyasagar Library:</h3>
+    <ul>
+      <li>AC availibilty</li>
+      <li>Free Wi-Fi</li>
+      <li>Drinking water availability</li>
+      <li>Affordable and comfortable self-study spaces</li>
+      <li>Quiet and conducive environment</li>
+    </ul>
+  </div>
+
+  <footer>
+    <p>&copy; 2023 Vidyasagar Library. All rights reserved.</p>
+  </footer>
+</body>
+</html>
